@@ -3,6 +3,7 @@ the rainbow
 purpel
 red
 yelllow
+green
 black
 red
 These are color of the rainbow.
