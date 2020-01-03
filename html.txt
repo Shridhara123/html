@@ -2,6 +2,7 @@ the rainbow
 
 purpel
 red
+unicorn
 yelllow
 green
 black
